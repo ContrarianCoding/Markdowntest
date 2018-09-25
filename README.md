@@ -18,7 +18,7 @@
 
 ##### On GitHub
 
-![GitHub Logo](https://raw.githubusercontent.com/ContrarianCoding/Markdowntest/master/300.jpg)
+![GitHub Logo](https://github.com/ContrarianCoding/Markdowntest/blob/master/img/300.jpg)
 
 ### A code snippet
 
