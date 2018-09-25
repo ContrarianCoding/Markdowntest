@@ -12,7 +12,7 @@
 
 ### A labeled image
 
-![Some Logo](https://s17-us2.startpage.com/cgi-bin/serveimage?url=https%3A%2F%2Fcdn.shopifycloud.com%2Fhatchful-web%2Fassets%2F313d73fa42f04a46213abc6267b4d074.png)
+![Some Logo](https://ixquick-proxy.com/do/spg/show_picture.pl?l=english&rais=1&oiu=http%3A%2F%2Fallthingsd.com%2Ffiles%2F2011%2F09%2Ffree.png&sp=810387e116b895fb0130ef4c20c06af1)
 
 ### A code snippet
 
