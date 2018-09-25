@@ -12,7 +12,7 @@
 
 ### A labeled image
 
-![Some Logo](https://ixquick-proxy.com/do/spg/show_picture.pl?l=english&rais=1&oiu=http%3A%2F%2Fallthingsd.com%2Ffiles%2F2011%2F09%2Ffree.png&sp=810387e116b895fb0130ef4c20c06af1)
+![Some Logo](https://ixquick-proxy.com/do/spg/show_picture.pl?l=english&rais=1&oiu=http%3A%2F%2Fallthingsd.com%2Ffiles%2F2011%2F09%2Ffree.png)
 
 ### A code snippet
 
