@@ -14,7 +14,7 @@
 
 ##### URL
 
-![Some Logo](https://ixquick-proxy.com/do/spg/show_picture.pl?l=english&rais=1&oiu=http%3A%2F%2Fallthingsd.com%2Ffiles%2F2011%2F09%2Ffree.png)
+![Some Logo](https://placekitten.com/300/300)
 
 ##### On GitHub
 
