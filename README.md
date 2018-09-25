@@ -12,7 +12,13 @@
 
 ### A labeled image
 
+##### URL
+
 ![Some Logo](https://ixquick-proxy.com/do/spg/show_picture.pl?l=english&rais=1&oiu=http%3A%2F%2Fallthingsd.com%2Ffiles%2F2011%2F09%2Ffree.png)
+
+##### On GitHub
+
+![GitHub Logo](/images/logo.png)
 
 ### A code snippet
 
